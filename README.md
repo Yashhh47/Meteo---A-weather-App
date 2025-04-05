@@ -1,8 +1,9 @@
-#screenshots
+# Screenshots
 <img width="314" alt="Screenshot 2025-04-04 at 4 27 26 PM" src="https://github.com/user-attachments/assets/c898c43c-514a-4a08-94d6-b939ac244bb9" />
-<img width="300" alt="Screenshot 2025-04-04 at 4 27 09 PM" src="https://github.com/user-attachments/assets/332064ff-12f1-4539-b8cf-e71e4c65d69e" />
 <img width="296" alt="Screenshot 2025-04-04 at 4 25 49 PM" src="https://github.com/user-attachments/assets/9ed92047-e619-4b03-aa56-85af02189096" />
 <img width="293" alt="Screenshot 2025-04-04 at 4 25 14 PM" src="https://github.com/user-attachments/assets/624a3bfd-fd88-453b-877a-de3c8a47ee0a" />
+<img width="280" alt="Screenshot 2025-04-04 at 4 23 40 PM" src="https://github.com/user-attachments/assets/b5e6da7a-d0a5-455f-a97b-7bd1bd8e107e" />
+<img width="282" alt="Screenshot 2025-04-04 at 4 23 09 PM" src="https://github.com/user-attachments/assets/a51ac56d-569a-49c0-a092-7703ebd76b51" />
 
 # weather_app
 
