@@ -1,3 +1,11 @@
+#screenshots
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-04-04 at 16 21 12](https://github.com/user-attachments/assets/501d7deb-1f79-432f-b4c5-f9da1f352d24)
+![Simulator Screenshot - iPhone 16 Pro Max - 2025-04-04 at 16 20 37](https://github.com/user-attachments/assets/ec7bc3fb-dd00-4f3d-bc2c-03bdcf361cc4)
+<img width="314" alt="Screenshot 2025-04-04 at 4 27 26 PM" src="https://github.com/user-attachments/assets/c898c43c-514a-4a08-94d6-b939ac244bb9" />
+<img width="300" alt="Screenshot 2025-04-04 at 4 27 09 PM" src="https://github.com/user-attachments/assets/332064ff-12f1-4539-b8cf-e71e4c65d69e" />
+<img width="296" alt="Screenshot 2025-04-04 at 4 25 49 PM" src="https://github.com/user-attachments/assets/9ed92047-e619-4b03-aa56-85af02189096" />
+<img width="293" alt="Screenshot 2025-04-04 at 4 25 14 PM" src="https://github.com/user-attachments/assets/624a3bfd-fd88-453b-877a-de3c8a47ee0a" />
+
 # weather_app
 
 A new Flutter project.
