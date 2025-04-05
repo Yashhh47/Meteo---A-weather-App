@@ -1,0 +1,11 @@
+# Ignore platform-specific code from language stats
+android/** linguist-vendored
+ios/** linguist-vendored
+macos/** linguist-vendored
+windows/** linguist-vendored
+web/** linguist-vendored
+
+# Prioritize Dart
+*.dart linguist-language=Dart
+
+fix: update GitHub language stats with .gitattributes
